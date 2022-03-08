@@ -1019,7 +1019,7 @@ padding: 10px;
 }
 
 
-.skillBtn button{
+.skillBtn div{
   font-size: 0.7rem;
     height: 55px;
     width: 73px;
@@ -1031,11 +1031,11 @@ padding: 10px;
     border: 1px solid #6c757d;
 }
 
-.skillBtn button:hover{
+.skillBtn div:hover{
     background-color: #f5f8fd;
     color: #6c757d;
 }
-.skillBtn button img{
+.skillBtn div img{
   width: 50%;
   height: 60%;
   margin: 0 7px;
@@ -1053,7 +1053,7 @@ padding: 10px;
   gap: 17px;
   padding: 10px;
 }
-.skills button{
+.skills div{
   font-size: 1rem;
     height: 75px;
     width: 90px;
@@ -1064,11 +1064,11 @@ padding: 10px;
     box-sizing: border-box;
     border: 1px solid #6c757d;
 }
-.skills button:hover{
+.skills div:hover{
   background-color: #ced6e4;
   color: #6c757d;
 }
-.skills button img{
+.skills div img{
   width: 50%;
   height: 60%;
   margin: 0 7px;
